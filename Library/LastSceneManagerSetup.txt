@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/Alien_vs_Balloon_Roque_Rodriguez.unity
+  isLoaded: 1
+  isActive: 1
